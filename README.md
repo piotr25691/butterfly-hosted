@@ -100,7 +100,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-This project does not have license attached to it, please take licenses for the included components in mind.
+This project does not have a license attached to it, please take other licenses for the included components in mind.
 
 [contributors-shield]: https://img.shields.io/github/contributors/piotr25691/butterfly-hosted.svg?style=for-the-badge
 [contributors-url]: https://github.com/piotr25691/butterfly-hosted/graphs/contributors
