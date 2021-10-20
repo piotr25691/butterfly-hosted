@@ -1,17 +1,3 @@
-import subprocess
-import os
-
-curr_env = {}
-curr_env.update(os.environ)
-
-if __name__ == "__main__":
-    os.system("chmod 777 ./java/bin/java")
-    butterfly = subprocess.Popen("./java/bin/java -jar butterfly.jar", stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-                                 env=curr_env, shell=True)
-    while True:
-        for line in iter(butterfly.stdout.readline, b''):
-            line = line.rstrip().decode("iso-8859-1")
-            if line:
-                print(line)
-            else:
-                break
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e27e4016b483a8415affdbd145902dd30604aafa6e880cd3e51e201f15f81ad
+size 741
