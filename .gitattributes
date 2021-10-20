@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08e8f1718147bac3769f2f4db83280b67f33531f195361eae07569c233be3995
-size 76
+/java-min/win/lib/modules filter=lfs diff=lfs merge=lfs -text
+/java-min/linux/lib/modules filter=lfs diff=lfs merge=lfs -text
