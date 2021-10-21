@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
-<h2 align="center">THIS PROJECT DOES NOT SUPPORT MAC OS AND NEVER WILL!</h2>
+<h2 align="center">THIS PROJECT DOES NOT SUPPORT MAC OS RIGHT NOW!</h2>
 <br />
 <p align="center">
   <a href="https://github.com/piotr25691/butterfly-hosted">
