@@ -111,6 +111,3 @@ This project does not have a license attached to it, please take other licenses 
 [stars-url]: https://github.com/piotr25691/butterfly-hosted/stargazers
 [issues-shield]: https://img.shields.io/github/issues/piotr25691/butterfly-hosted.svg?style=for-the-badge
 [issues-url]: https://github.com/piotr25691/butterfly-hosted/issues
-[license-shield]: https://img.shields.io/github/license/piotr25691/butterfly-hosted.svg?style=for-the-badge
-[license-url]: https://github.com/piotr25691/butterfly-hosted/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
